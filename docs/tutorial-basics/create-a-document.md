@@ -20,7 +20,7 @@ Create a markdown file at `docs/hello.md`:
 This is my **first Docusaurus document**!
 ```
 
-A new document is now available at `https://lit-brushlands-76778.herokuapp.com/`.
+A new document is now available at `http://localhost:3000/`.
 
 ## Configure the Sidebar
 

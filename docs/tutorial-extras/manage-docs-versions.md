@@ -18,8 +18,8 @@ The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json
 
 Your docs now have 2 versions:
 
-- `1.0` at `https://lit-brushlands-76778.herokuapp.com/docs/` for the version 1.0 docs
-- `current` at `https://lit-brushlands-76778.herokuapp.com/docs/next/` for the **upcoming, unreleased docs**
+- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
+- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
 
 ## Add a Version Dropdown
 
@@ -51,5 +51,5 @@ The docs version dropdown appears in your navbar:
 
 It is possible to edit versioned docs in their respective folder:
 
-- `versioned_docs/version-1.0/hello.md` updates `https://lit-brushlands-76778.herokuapp.com/docs/hello`
-- `docs/hello.md` updates `https://lit-brushlands-76778.herokuapp.com/docs/next/hello`
+- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
+- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
